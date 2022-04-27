@@ -5,4 +5,4 @@ Specifically, Cardiopulmonary exercise testing (CPX) is one of the most commonly
 
 # Reference
 
-Accepted at NeurIPS 2021-MLPH Workshop and EMBC 2022 conference.
+Accepted at NeurIPS 2021-MLPH Workshop and EMBC 2022 conference: https://arxiv.org/abs/2204.12432
